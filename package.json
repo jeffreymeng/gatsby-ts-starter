@@ -1,8 +1,8 @@
 {
-    "name": "coup",
+    "name": "gatsby-ts-starter",
     "version": "1.0.0",
     "private": false,
-    "description": "Coup online, with support for custom variants",
+    "description": "",
     "author": "Jeffrey Meng",
     "keywords": [
         "gatsby"
